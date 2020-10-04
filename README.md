@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=varora1406)](https://github.com/varora1406/github-readme-stats)
+
 <!--
 **varora1406/varora1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
