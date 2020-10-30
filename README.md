@@ -24,10 +24,7 @@ I am Vaibhav Arora, people call me Vaibhu, currently working with a startup to h
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Vue.js                5 hrs 38 mins   ███████████████░░░░░░░░░░   59.36 % 
-C++                   3 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   38.37 % 
-Markdown              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Sublime Text Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
