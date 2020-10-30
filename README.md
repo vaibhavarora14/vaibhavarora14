@@ -21,6 +21,16 @@ I am Vaibhav Arora, people call me Vaibhu, currently working with a startup to h
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Vue.js                5 hrs 38 mins   ███████████████░░░░░░░░░░   59.36 % 
+C++                   3 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   38.37 % 
+Markdown              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Sublime Text Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+```
+<!--END_SECTION:waka-->
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=varora1406&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varora1406&hide=TeX&layout=compact)
 
