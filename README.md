@@ -33,4 +33,6 @@ JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=varora1406&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varora1406&hide=TeX&layout=compact)
 
+![Coder Rank Profile](https://profile.codersrank.io/user/varora1406)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=varora1406)
