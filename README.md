@@ -24,7 +24,7 @@ I am Vaibhav Arora, people call me Vaibhu, currently working with a startup to h
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   4 hrs 17 mins   ██████████████████████▓░░   90.52 % 
+TypeScript   4 hrs 17 mins   ██████████████████████▓░░   90.43 % 
 JSON         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
