@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Vaibhav Arora, people call me Vaibhu, currently working with a startup to have a journey full of learnings and accomplish objective as fast as possible. I am not tech freak, I just like the output tech can make in world. I used to love Maths subject, and from there my interest raised in solving computational problems. I am always open for collaboration on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Vaibhav Arora, people call me Vaibhu, currently working with a startup to have a journey full of learnings and accomplish objective as fast as possible. I am not tech freak, I just like the output tech can make in world. I used to love Maths subject, and from there my interest raised in solving computational problems. I am always open for collaboration on projects and innovative/disruptive ideas. Feel free to connect with me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-vaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-arora-602476107/)](https://www.linkedin.com/in/vaibhav-arora-602476107/)
 [![Gmail Badge](https://img.shields.io/badge/-varora1406@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varora1406@gmail.com)](mailto:varora1406@gmail.com)
