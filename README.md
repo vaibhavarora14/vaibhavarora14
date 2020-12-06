@@ -29,11 +29,11 @@ Feel free to connect with me on:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   38 hrs 6 mins   ███████████████████████░░   92.66 % 
-HTML         2 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-JSON         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-SCSS         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+TypeScript   40 hrs 58 mins  ███████████████████████▒░   92.71 % 
+HTML         1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+JSON         1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Other        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+SCSS         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
 
