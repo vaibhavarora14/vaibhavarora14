@@ -44,10 +44,13 @@ Other        8 mins          ░░░░░░░░░░░░░░░░░
 <br />
 
 <br />
+
 ![Coder Rank Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=varora1406)
 
 <br />
+
 [Coder Rank Profile](https://profile.codersrank.io/user/varora1406)
 
 <br />
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=varora1406)
