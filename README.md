@@ -1,9 +1,9 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Vaibhav Arora (aka Vaibhu), currently work as a Frontend guy for different projects.
-I actually don't love tech for the reason that it's interesting, I love it because it's output impact can reach so many human beings. 🙌 
-I can build anything in tech, literally anything, it's just has to be meaningful 👼. (Note: Speed of building will vary, I am not a superman 🛸)
-Feel free to connect with me on:
+I am Vaibhav Arora (aka Vaibhu), currently work as a Frontend guy for different projects.<br />
+I actually don't love tech for the reason that it's interesting, I love it because it's output impact can reach so many human beings. 🙌 <br/>
+I can build anything in tech, literally anything, it's just has to be meaningful 👼. (Note: Speed of building will vary, I am not a superman 🛸) <br/><br />
+Feel free to connect with me on:<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-vaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-arora-602476107/)](https://www.linkedin.com/in/vaibhav-arora-602476107/)
 [![Gmail Badge](https://img.shields.io/badge/-varora1406@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varora1406@gmail.com)](mailto:varora1406@gmail.com)
@@ -25,8 +25,9 @@ Feel free to connect with me on:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+<br />
 
-
+Last 7 days I spent my time in technologies -
 <!--START_SECTION:waka-->
 ```text
 TypeScript   38 hrs 12 mins  ███████████████████████▒░   93.51 % 
@@ -35,14 +36,18 @@ JavaScript   1 hr 4 mins     ▓░░░░░░░░░░░░░░░░
 HTML         16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> <br /><br />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=varora1406&count_private=true&show_icons=true&include_all_commits=true)
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varora1406&hide=TeX&layout=compact)
+<br />
 
-
+<br />
 ![Coder Rank Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=varora1406)
 
+<br />
 [Coder Rank Profile](https://profile.codersrank.io/user/varora1406)
 
+<br />
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=varora1406)
