@@ -7,7 +7,7 @@ Feel free to connect with me on:<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-vaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-arora-602476107/)](https://www.linkedin.com/in/vaibhav-arora-602476107/)
 [![Gmail Badge](https://img.shields.io/badge/-varora1406@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varora1406@gmail.com)](mailto:varora1406@gmail.com)
-[![Twitter Badge](https://img.shields.io/twitter/follow/vaibhav_arora__?label=Twitter&style=social)](https://img.shields.io/twitter/follow/vaibhav_arora__?label=Twitter&style=social)
+[![Twitter Badge](https://img.shields.io/twitter/follow/vaibhav_arora__?label=Twitter&style=social)](https://twitter.com/vaibhav_arora__)
 
 ## ⚡ Technologies
 
