@@ -30,11 +30,11 @@ Feel free to connect with me on:<br />
 Last 7 days I spent my time in technologies -
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 19 mins   █████████████░░░░░░░░░░░░   51.44 % 
-JSX          5 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░   32.12 % 
-JSON         1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Git          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+JavaScript   10 hrs 1 min    █████████████▓░░░░░░░░░░░   54.76 % 
+JSX          5 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   29.56 % 
+JSON         1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Git          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 <!--END_SECTION:waka--> <br /><br />
 
