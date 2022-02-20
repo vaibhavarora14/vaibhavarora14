@@ -29,8 +29,6 @@ Feel free to connect with me on:<br />
 Last 7 days I spent my time in technologies -
 <!--START_SECTION:waka-->
 ```text
-Total: 8 hrs 11 mins
-
 JavaScript   5 hrs 32 mins   █████████████████░░░░░░░░   67.60 % 
 JSON         2 hrs 8 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.13 % 
 TypeScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
