@@ -28,13 +28,16 @@ Feel free to connect with me on:<br />
 
 Last 7 days I spent my time in technologies -
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   6 hrs 25 mins   ██████████████████░░░░░░░   71.46 % 
-JSON         1 hr 45 mins    █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Bash         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-TypeScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-TOML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+JavaScript   5 hrs 42 mins   █████████████░░░░░░░░░░░░   51.92 %
+JSON         2 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
+TypeScript   1 hr 42 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
+HTML         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Bash         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+SCSS         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
+
 <!--END_SECTION:waka--> <br /><br />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=varora1406&count_private=true&show_icons=true&include_all_commits=true)
