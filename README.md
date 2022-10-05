@@ -26,6 +26,8 @@ Feel free to connect with me on:<br />
 
 <br />
 
+[Resume](https://drive.google.com/file/d/1SZgTYae-CFf_o9hOwniR_t0gWV-SRvzB/view?usp=drivesdk)
+
 Last 7 days I spent my time in technologies -
 <!--START_SECTION:waka-->
 
