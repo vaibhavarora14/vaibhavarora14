@@ -32,10 +32,10 @@ Last 7 days I spent my time in technologies -
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs 32 mins  ██████████████████████▒░░   89.72 %
-JSON         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-JavaScript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Other        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+TypeScript   13 hrs 25 mins  █████████████████████▓░░░   86.42 %
+JavaScript   39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+JSON         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 ```
 
 <!--END_SECTION:waka--> <br /><br />
