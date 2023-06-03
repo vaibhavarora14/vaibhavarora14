@@ -31,7 +31,7 @@ Feel free to connect with me on:<br />
 Last 7 days I spent my time in technologies -
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
