@@ -31,8 +31,4 @@ Feel free to connect with me on:<br />
 
 <br />
 
-[Coder Rank Profile](https://profile.codersrank.io/user/varora1406)
-
-<br />
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=varora1406)
