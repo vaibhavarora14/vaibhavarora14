@@ -28,23 +28,6 @@ Feel free to connect with me on:<br />
 
 [Resume](https://drive.google.com/file/d/1SZgTYae-CFf_o9hOwniR_t0gWV-SRvzB/view?usp=drivesdk)
 
-Last 7 days I spent my time in technologies -
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka--> <br /><br />
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=varora1406&count_private=true&show_icons=true&include_all_commits=true)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varora1406&hide=TeX&layout=compact)
-<br />
-
-<br />
-
-![Coder Rank Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=varora1406)
 
 <br />
 
