@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Vaibhav Arora (aka Vaibhu), currently work as a Frontend developer for a company.<br />
+I am Vaibhav Arora (aka Vaibhu), work as Software engineer.<br />
 I actually don't love tech for the reason that it's interesting, I love it because it's output impact can reach so many human beings. 🙌 <br/>
 I can build anything in tech, literally anything, it's just has to be meaningful 👼. (Note: Speed of building will vary, I am not a superman 🛸) <br/><br />
 Feel free to connect with me on:<br />
