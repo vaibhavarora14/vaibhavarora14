@@ -26,7 +26,7 @@ Feel free to connect with me on:<br />
 
 <br />
 
-[Resume](https://drive.google.com/file/d/1SZgTYae-CFf_o9hOwniR_t0gWV-SRvzB/view?usp=drivesdk)
+[Resume](https://docs.google.com/document/d/1BRWnyRB1SidNR2zad5S_uG3mIaoXXEwfcyS2e_boKE8/edit?tab=t.0)
 
 
 <br />
