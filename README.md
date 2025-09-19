@@ -17,7 +17,3 @@ Hit me up if you need me, connect on - <br />
 
 [Resume](https://docs.google.com/document/d/1BRWnyRB1SidNR2zad5S_uG3mIaoXXEwfcyS2e_boKE8/edit?tab=t.0)
 
-
-<br />
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=varora1406)
