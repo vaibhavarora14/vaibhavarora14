@@ -1,6 +1,6 @@
 ## Hello, I'm Vaibhav 👋
 I’m an engineer worked across [Snorkel AI](https://snorkel.ai/) , [Locus](https://locus.sh/), [CatalystOne](https://www.catalystone.com/) in the past.
-Checkout my 📄 [resume](https://docs.google.com/document/d/1BRWnyRB1SidNR2zad5S_uG3mIaoXXEwfcyS2e_boKE8/edit?tab=t.0#heading=h.rxuckrujewil).
+Checkout my 📄 [resume](https://docs.google.com/document/d/1BRWnyRB1SidNR2zad5S_uG3mIaoXXEwfcyS2e_boKE8/edit?usp=drive_link).
 
 ### More about myself 🍿
 - 🇮🇳 I live in India, but travelled and work with 🇺🇸 US and 🇸🇬 Singapore companies along side 🇮🇳 Indian companies
