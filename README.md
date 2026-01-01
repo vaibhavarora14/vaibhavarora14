@@ -2,7 +2,7 @@
 I’m an engineer worked across [Snorkel AI](https://snorkel.ai/) , [Locus](https://locus.sh/), [CatalystOne](https://www.catalystone.com/) in the past.
 Checkout my 📄 [resume](https://docs.google.com/document/d/1BRWnyRB1SidNR2zad5S_uG3mIaoXXEwfcyS2e_boKE8/edit?usp=drive_link).
 
-Proud owner of [https://share-money-web.vercel.app/](url) and [https://transactions-parser.netlify.app/](url)
+Proud owner of [ShareMoney (Split expenses)](https://share-money-web.vercel.app/) and [TransactionsParser](https://transactions-parser.netlify.app/)
 
 ### More about myself 🍿
 - 🇮🇳 I live in India, but travelled and work with 🇺🇸 US and 🇸🇬 Singapore companies along side 🇮🇳 Indian companies
