@@ -5,7 +5,7 @@ I’m a full‑stack engineer (React/TypeScript) who has worked with [Snorkel AI
 Check out my 📄 [résumé](https://docs.google.com/document/d/1BRWnyRB1SidNR2zad5S_uG3mIaoXXEwfcyS2e_boKE8/edit?usp=drive_link).
 
 Proud builder of:
-- [Statements AI](https://statements-ai.vercel.app/)
+- [Statements AI](https://statements-ai.app/)
 - [ShareMoney — Split expenses](https://share-money-web.vercel.app/)
 (Both launched in late 2025)
 
